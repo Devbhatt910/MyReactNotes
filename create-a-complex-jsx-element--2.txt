@@ -1,0 +1,12 @@
+const JSX=<div>
+
+    <h1>{"Hello This is H1 JSX tag"}</h1>
+    <p>{"HEllo This is p JSX Tag"}</p>
+    <ul>
+    
+        <li>{"One"}</li>
+        <li>{"Two"}</li>
+        <li>{"Three"}</li>
+
+    </ul>
+</div>
